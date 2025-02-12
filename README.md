@@ -2,7 +2,7 @@
 
 Win/Loss Sparkline Visualization in Tableau
 
-Sparkline visula.twx (you can replicate this using the tableau file)
+Sparkline visula.twx (you can replicate this using the tableau file present in the lsit of files along with a step wise guidance pdf)
 
 Overview
 This provides a step-by-step process to create a win/loss sparkline visualization in Tableau using the Product Sub-Category and Order Date fields. This visualization enables quick insights into performance trends over time.
