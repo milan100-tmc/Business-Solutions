@@ -1,4 +1,4 @@
-##  Carbon Footprints Across Sectors
+##  Carbon Footprints Across Sectors - Passionate about Data for Sustainability
 
 ###  Overview
 This Power BI dashboard visualizes carbon emissions across major sectors—energy, transportation, agriculture, industry, and more. The aim is to present environmental impact data clearly, track trends, and support sustainability awareness.
@@ -28,4 +28,3 @@ To build a clear, impactful dashboard that communicates sector-specific carbon e
 
 
 
-## Passionate about Data for Sustainability
