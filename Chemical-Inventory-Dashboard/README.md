@@ -1,4 +1,4 @@
-🧪 ## Chemical Inventory Management Dashboard (Power BI)
+## 🧪  Chemical Inventory Management Dashboard (Power BI)
 
 This project showcases a dynamic Power BI dashboard built to manage and monitor a large chemical inventory. Designed for use in a school science department, the dashboard improves data visibility, tracks hazardous substances, and supports safe storage and compliance practices.
 
