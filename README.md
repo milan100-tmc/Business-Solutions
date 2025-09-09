@@ -3,8 +3,8 @@ I am a data-driven professional passionate about turning complex datasets into a
 
 💼 Experience: Data Analyst Intern at OQEMA GmbH | Junior Business Analyst Apprentice at SolarGenext
 
-🛠 Tools & Technologies: Power BI, Tableau, SQL, Python, Excel, Snowflake, n8n AI workflow, Google Analytics
+🛠 Tools & Technologies: Power BI, Tableau, SQL, Python, Excel, Snowflake, n8n AI workflow.
 
-🎯 Focus Areas: Data Analysis, Dashboard Development, KPI Tracking, Process Automation, SaaS Analytics
+🎯 Focus Areas: Data Analysis, Dashboard Development, KPI Tracking.
 
 🌍 Based in France, open to analytics and BI opportunities across EU
