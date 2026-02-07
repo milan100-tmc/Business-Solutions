@@ -1,4 +1,4 @@
-# Scalable E-commerce Customer 360 on Azure + Microsoft Fabric (Medallion Architecture)
+# Azure + Microsoft Fabric Scalable E-commerce Customer 360 (Medallion Architecture)
 
 End-to-end, scalable data engineering pipeline built using **Azure ADLS Gen2 + Microsoft Fabric** to deliver Customer 360 analytics** with **Bronze/Silver/Gold** layers and Power BI reporting.
 
