@@ -1,0 +1,16 @@
+ticket_id,customer_id,issue_type,ticket_date,resolution_status
+T001,1001,Payment Issue,2022-07-19,closed
+T002,1002,delivery delay,19-07-2022,pending
+T003,1003,PAYMENT ISSUE,20220720,Closed
+T004,1004,login problem,2022/07/20,
+T005,1005,NA,n/a,resolved
+T006,1006,refund request,2022/07/21,Pending
+T007,1007,Delivery Delay,21-07-2022,Closed
+T008,1008,Product damaged,20220722,Resolved
+T009,1009,login issue,2022/07/23,pending
+T010,1010,Support needed,2022-07-23,
+T011,1011,wrong item,23/07/2022,Closed
+T012,1012,NA,2022-07-24,Resolved
+T013,1013,refund,2022-07-25,Closed
+T014,1014,cancelled item,2022/07/25,closed
+T015,1015,Payment error,26-07-2022,Pending

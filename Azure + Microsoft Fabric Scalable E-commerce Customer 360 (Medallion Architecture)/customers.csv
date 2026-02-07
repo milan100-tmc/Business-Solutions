@@ -1,0 +1,16 @@
+customer_id,name,EMAIL,gender,dob,location
+1001,john DOE,John.DOE@Gmail.Com,male,1990/05/12,new york
+1002,sara kHAN,SARA.khan@GMAIL.com,F,12-06-1988,MUMBAI
+1003,,tom@outlook.com,Male,,san francisco
+1004,Anil Sharma,ANIL.sharma@yahoo.in,MALE,1989-03-17,bangalore
+1005,Priya R,priya.r@hotmail.com,f,1993-11-23,delhi
+1006,Amit Patel,amit123@gmail.com,M,1992/08/19,surat
+1007,Meena Kumari,meena@rediffmail.com,female,1995-04-10,chennai
+1008,Rajesh,rajesh@yahoo.com,MALE,01-01-1990,hyderabad
+1009,Sophie,sophie@gmail,F,1991/02/02,mumbai
+1010,Ali khan,ali.khan@aol.com,male,not available,lahore
+1011,Ravi Kumar,ravi.k@inbox.com,M,1988-05-25,pune
+1012,Anjali,anjali@@gmail.com,f,1992-10-12,jaipur
+1013,Deepak,deepak@gmail.com,Male,1986/12/01,indore
+1014,Neha,neha@.com,,1990-03-30,lucknow
+1015,Karan Singh,karan@yahoo.co.in,MALE,1993-07-07,delhi
