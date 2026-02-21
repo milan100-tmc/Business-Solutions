@@ -2,7 +2,7 @@
 End-to-End Azure Data Engineering Project
 
 **ADF + ADLS + Spark + Synapse + SQL**
-| (ADF • ADLS • Spark • Synapse) → Gold)|
+
 
 ---
 
