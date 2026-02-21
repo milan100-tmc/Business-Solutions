@@ -1,16 +1,12 @@
-Here’s a clean and professional **GitHub README.md** for your End-to-End Azure Data Engineering Project 👇
-You can copy-paste this directly into your repository.
 
----
-
-# 🚀 End-to-End Azure Data Engineering Project
+End-to-End Azure Data Engineering Project
 
 **ADF + ADLS + Spark + Synapse + SQL**
 Medallion Architecture (Bronze → Azure Retail Data Platform | End-to-End Medallion Architecture (ADF • ADLS • Spark • Synapse) → Gold)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates a complete **end-to-end data engineering pipeline** built on Microsoft Azure using modern cloud data architecture principles.
 
@@ -18,11 +14,11 @@ The solution ingests retail transaction data from a **REST API**, processes it t
 
 ---
 
-## 🏢 Business Requirement
+##  Business Requirement
 
 We are working for a **retail client**.
 
-### 🎯 Objective:
+###  Objective:
 
 Generate a **daily report** showing:
 
@@ -33,9 +29,9 @@ The final dataset should be queryable by clients via SQL or report-ready for das
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
-### 🔹 Source
+###  Source
 
 * REST API
 * Data contains:
@@ -49,7 +45,7 @@ The final dataset should be queryable by clients via SQL or report-ready for das
 
 ---
 
-## 🥇 Medallion Architecture
+##  Medallion Architecture
 
 The project follows the **Bronze → Silver → Gold** layered architecture pattern.
 
@@ -61,13 +57,13 @@ The project follows the **Bronze → Silver → Gold** layered architecture patt
 
 ---
 
-## 🟤 Bronze Layer – Raw Data
+##  Bronze Layer – Raw Data
 
-### 📌 Objective:
+###  Objective:
 
 Ingest raw data from REST API without modification.
 
-### ⚙️ Process:
+###  Process:
 
 * Azure Data Factory (ADF) pipeline calls REST API
 * Data is stored as-is in:
@@ -76,7 +72,7 @@ Ingest raw data from REST API without modification.
   ADLS / bronze /
   ```
 
-### 🧱 Characteristics:
+###  Characteristics:
 
 * Raw JSON format
 * No transformations
@@ -84,13 +80,13 @@ Ingest raw data from REST API without modification.
 
 ---
 
-## ⚪ Silver Layer – Cleaned Data
+##  Silver Layer – Cleaned Data
 
-### 📌 Objective:
+###  Objective:
 
 Transform and clean the raw purchase dataset.
 
-### ⚙️ Process:
+###  Process:
 
 Using **Azure Synapse Spark / PySpark**:
 
@@ -101,13 +97,13 @@ Using **Azure Synapse Spark / PySpark**:
 * Convert `payment_method` to lowercase
 * Store data in **Parquet format**
 
-### 📂 Output:
+###  Output:
 
 ```
 ADLS / silver / purchase_data.parquet
 ```
 
-### 🧱 Characteristics:
+###  Characteristics:
 
 * Cleaned dataset
 * Schema enforced
@@ -116,13 +112,13 @@ ADLS / silver / purchase_data.parquet
 
 ---
 
-## 🟡 Gold Layer – Aggregated Data
+##  Gold Layer – Aggregated Data
 
-### 📌 Objective:
+###  Objective:
 
 Create business-level daily report.
 
-### ⚙️ Process:
+###  Process:
 
 Using **Spark SQL or Synapse SQL**:
 
@@ -142,7 +138,7 @@ FROM silver_purchase_data
 GROUP BY transaction_date;
 ```
 
-### 📂 Output Options:
+###  Output Options:
 
 * Gold dataset stored in ADLS
 * OR
@@ -154,7 +150,7 @@ Gold → SQL Table → Client Query
 
 ---
 
-## 🔁 End-to-End Data Flow
+##  End-to-End Data Flow
 
 ```
 REST API 
@@ -176,7 +172,7 @@ Client Reporting / BI Tool
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Azure Data Factory (ADF)
 * Azure Data Lake Storage Gen2 (ADLS)
@@ -187,7 +183,7 @@ Client Reporting / BI Tool
 
 ---
 
-## 📊 Key Data Engineering Concepts Demonstrated
+##  Key Data Engineering Concepts Demonstrated
 
 ✔ Medallion Architecture
 ✔ REST API ingestion
@@ -200,7 +196,7 @@ Client Reporting / BI Tool
 
 ---
 
-## 📈 Possible Enhancements
+##  Possible Enhancements
 
 * Incremental loading
 * Partitioning by date
@@ -212,7 +208,7 @@ Client Reporting / BI Tool
 
 ---
 
-## 📂 Repository Structure (Example)
+##  Repository Structure (Example)
 
 ```
 ├── adf/
@@ -228,7 +224,7 @@ Client Reporting / BI Tool
 
 ---
 
-## 🎓 Learning Outcome
+##  Learning Outcome
 
 This project simulates a real-world retail data engineering use case and demonstrates how to:
 
@@ -239,20 +235,8 @@ This project simulates a real-world retail data engineering use case and demonst
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Milan Niranjan**
 M.Sc. Business Intelligence
 Azure Data Engineering | SQL | Spark | Data Analytics
-
----
-
-If you want, I can also give you:
-
-* 🔥 A more “resume-focused” version (for recruiters)
-* 🧠 A more “technical deep-dive” version
-* 📊 Add Power BI dashboard section
-* ⚡ Add Delta Lake + incremental load design
-* 🧾 Add architecture diagram markdown formatting
-
-Tell me which version you want 👌
