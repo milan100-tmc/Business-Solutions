@@ -208,22 +208,6 @@ Client Reporting / BI Tool
 
 ---
 
-##  Repository Structure (Example)
-
-```
-├── adf/
-│   └── pipeline.json
-├── spark/
-│   └── silver_transformation.py
-├── sql/
-│   └── gold_aggregation.sql
-├── architecture/
-│   └── architecture_diagram.png
-└── README.md
-```
-
----
-
 ##  Learning Outcome
 
 This project simulates a real-world retail data engineering use case and demonstrates how to:
