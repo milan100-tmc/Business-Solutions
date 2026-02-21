@@ -2,7 +2,7 @@
 End-to-End Azure Data Engineering Project
 
 **ADF + ADLS + Spark + Synapse + SQL**
-Medallion Architecture (Bronze → Azure Retail Data Platform | End-to-End Medallion Architecture (ADF • ADLS • Spark • Synapse) → Gold)
+| (ADF • ADLS • Spark • Synapse) → Gold)|
 
 ---
 
