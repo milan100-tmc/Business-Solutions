@@ -1,0 +1,31 @@
+transaction_date,product_id,product_name,category,store_id,store_name,location,total_quantity_sold,total_sales_amount,number_of_transactions,average_transaction_value
+2024-11-02,8,Desk Organizer,Accessories,1,City Mall Store,Mumbai,1,399,1,399
+2024-08-11,1,Wireless Mouse,Electronics,3,Tech World Outlet,Bangalore,2,1599.98,1,1599.98
+2024-12-13,8,Desk Organizer,Accessories,4,Downtown Mini Store,Pune,5,1995,1,1995
+2025-05-04,3,Yoga Mat,Fitness,3,Tech World Outlet,Bangalore,4,1996,1,1996
+2025-05-26,5,Notebook Set,Stationery,1,City Mall Store,Mumbai,4,596,1,596
+2024-07-14,1,Wireless Mouse,Electronics,5,Mega Plaza,Chennai,1,799.99,1,799.99
+2024-07-17,1,Wireless Mouse,Electronics,4,Downtown Mini Store,Pune,5,3999.95,1,3999.95
+2024-09-05,1,Wireless Mouse,Electronics,4,Downtown Mini Store,Pune,3,2399.9700000000003,1,2399.9700000000003
+2025-06-03,9,Dumbbell Set,Fitness,4,Downtown Mini Store,Pune,2,3998,1,3998
+2024-08-27,2,Bluetooth Speaker,Electronics,2,High Street Store,Delhi,5,6497.45,1,6497.45
+2025-01-01,7,Smartwatch,Electronics,2,High Street Store,Delhi,5,24995,1,24995
+2025-05-19,6,Water Bottle,Fitness,5,Mega Plaza,Chennai,5,1495,1,1495
+2024-11-12,3,Yoga Mat,Fitness,4,Downtown Mini Store,Pune,5,2495,1,2495
+2025-01-04,7,Smartwatch,Electronics,3,Tech World Outlet,Bangalore,5,24995,1,24995
+2025-03-16,8,Desk Organizer,Accessories,4,Downtown Mini Store,Pune,5,1995,1,1995
+2024-11-15,7,Smartwatch,Electronics,5,Mega Plaza,Chennai,3,14997,1,14997
+2024-07-30,5,Notebook Set,Stationery,1,City Mall Store,Mumbai,2,298,1,298
+2025-04-30,9,Dumbbell Set,Fitness,4,Downtown Mini Store,Pune,2,3998,1,3998
+2024-11-29,6,Water Bottle,Fitness,2,High Street Store,Delhi,4,1196,1,1196
+2024-09-21,6,Water Bottle,Fitness,2,High Street Store,Delhi,2,598,1,598
+2025-06-08,7,Smartwatch,Electronics,5,Mega Plaza,Chennai,2,9998,1,9998
+2024-11-16,9,Dumbbell Set,Fitness,3,Tech World Outlet,Bangalore,4,7996,1,7996
+2024-10-02,1,Wireless Mouse,Electronics,3,Tech World Outlet,Bangalore,5,3999.95,1,3999.95
+2024-10-08,1,Wireless Mouse,Electronics,3,Tech World Outlet,Bangalore,2,1599.98,1,1599.98
+2025-05-01,2,Bluetooth Speaker,Electronics,2,High Street Store,Delhi,3,3898.4700000000003,1,3898.4700000000003
+2024-07-14,8,Desk Organizer,Accessories,4,Downtown Mini Store,Pune,4,1596,1,1596
+2024-10-10,8,Desk Organizer,Accessories,1,City Mall Store,Mumbai,1,399,1,399
+2025-03-17,5,Notebook Set,Stationery,2,High Street Store,Delhi,1,149,1,149
+2024-07-10,8,Desk Organizer,Accessories,5,Mega Plaza,Chennai,5,1995,1,1995
+2025-03-31,8,Desk Organizer,Accessories,4,Downtown Mini Store,Pune,4,1596,1,1596
