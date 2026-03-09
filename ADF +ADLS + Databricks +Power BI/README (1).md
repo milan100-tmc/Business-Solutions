@@ -44,10 +44,10 @@ Azure SQL Database          REST API
   silver/      gold/
 (cleaned &   (aggregated
   joined)      summary)
-     │
-     ▼
-  Power BI
- (Dashboard)
+                  │
+                  ▼
+               Power BI
+               (Dashboard)
 ```
 
 ---
