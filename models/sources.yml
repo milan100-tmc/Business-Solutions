@@ -1,8 +1,0 @@
-version: 2
-
-sources:
-  - name: raw
-    database: dbt_db
-    schema: raw
-    tables:
-      - name: raw_orders
