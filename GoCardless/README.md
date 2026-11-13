@@ -32,3 +32,5 @@ Suggested measures:
 
 ## Scope limitations
 The data is simulated and intentionally simplified. It is suitable for demonstrating SQL, KPI logic, data-quality thinking and communication, not for estimating actual payment industry or GoCardless performance.
+
+https://milan100-tmc.github.io/Business-Solutions/GoCardless/
