@@ -8,7 +8,7 @@ st.set_page_config(page_title="Commercial Performance Analytics", page_icon="ðŸ“
 st.title("Commercial Performance Analytics")
 st.caption("Independent portfolio simulation â€¢ Synthetic 2025 wholesale distribution data")
 
-DB_PATH = Path("civitta_analytics.duckdb")
+DB_PATH = Path(__file__).resolve().parent / "civitta_analytics.duckdb"
 
 @st.cache_data
 def load_data(db_path: str):
