@@ -1,0 +1,1 @@
+Power BI Desktop is a Windows application and is not natively available on macOS. This project includes the data, SQL, model design and DAX measures. A .pbix dashboard must be created in Power BI Desktop on a Windows machine or VM; no fake or placeholder PBIX is included.
