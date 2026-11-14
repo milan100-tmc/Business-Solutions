@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_cost,list_price
+1,Product 001,Furniture,105.76,345.69
+2,Product 002,Furniture,115.14,273.26
+3,Product 003,Electronics,69.5,60.09
+4,Product 004,Electronics,151.19,138.15
+5,Product 005,Office Supplies,11.73,362.69
+6,Product 006,Electronics,64.95,455.55
+7,Product 007,Furniture,27.01,141.86
+8,Product 008,Industrial,61.42,92.19
+9,Product 009,Industrial,68.32,252.3
+10,Product 010,Industrial,55.7,75.56
+11,Product 011,Industrial,95.03,223.22
+12,Product 012,Electronics,171.61,492.56
+13,Product 013,Electronics,24.55,372.26
+14,Product 014,Electronics,69.68,119.4
+15,Product 015,Industrial,43.64,116.24
+16,Product 016,Industrial,69.95,463.93
+17,Product 017,Industrial,203.93,432.3
+18,Product 018,Electronics,22.14,499.66
+19,Product 019,Electronics,242.56,465.39
+20,Product 020,Office Supplies,49.91,258.25
+21,Product 021,Office Supplies,217.52,454.15
+22,Product 022,Office Supplies,100.95,493.1
+23,Product 023,Furniture,232.36,399.01
+24,Product 024,Furniture,111.52,479.94
+25,Product 025,Industrial,47.15,169.45
+26,Product 026,Electronics,149.0,284.83
+27,Product 027,Furniture,23.72,304.56
+28,Product 028,Office Supplies,23.65,268.68
+29,Product 029,Office Supplies,26.45,61.94
+30,Product 030,Office Supplies,106.91,472.55
