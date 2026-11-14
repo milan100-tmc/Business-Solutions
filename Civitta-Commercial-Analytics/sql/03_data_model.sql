@@ -1,0 +1,12 @@
+-- Logical star-schema recommendation for Power BI
+-- FactSales: one row per order item (completed orders for sales KPIs)
+-- Dimensions: DimDate, DimCustomer, DimProduct, DimRegion
+--
+-- Relationships:
+-- DimCustomer[customer_id] 1 -> * FactSales[customer_id]
+-- DimProduct[product_id]   1 -> * FactSales[product_id]
+-- DimDate[Date]            1 -> * FactSales[order_date]
+-- DimRegion[country]       1 -> * FactSales[country]
+--
+-- Use single-direction filtering from dimensions to fact.
+-- Do not join dimensions together in the Power BI model.
