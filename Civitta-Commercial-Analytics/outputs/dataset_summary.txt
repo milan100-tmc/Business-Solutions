@@ -1,0 +1,7 @@
+Synthetic dataset summary
+regions: 5 rows
+customers: 100 rows
+products: 30 rows
+orders: 1000 rows
+order_items: 2584 rows
+TOTAL: 3719 rows
